@@ -100,7 +100,7 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 
 - **GitHub** : [@ton-username](https://github.com/ton-username)
 - **LinkedIn** : [Frederic B.](lien-linkedin)
-- **Email** : [fb.attfr@gmail.com](mailto:ton.email@example.com)
+- **Email** : fb.attfr [at] gmail [dot] com
 
 > 💡 *N'hésitez pas à me contacter pour échanger sur DevOps, Linux, la cybersécurité ou toute collaboration !*
 
