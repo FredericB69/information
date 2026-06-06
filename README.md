@@ -50,7 +50,7 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 ### **Projets DevOps**
 
 - **[Nom du Projet 1](lien)** : Description : Script Ansible pour déployer une stack LAMP en 5 minutes.
-- **[Nom du Projet 2](lien)** : Description : LAB Perso avec server Proxmox deploiement de VM et Automatisation du déploiement d'outils comme Zabbix, Nagios, Kubernet.
+- **[Nom du Projet 2](lien)** : Description : LAB Perso avec server Proxmox deploiement de VM et Automatisation du déploiement d'outils comme Zabbix, Nagios, Kubernetes.
 - **[Nom du Projet 3:](lien)** Description : Installation et mise en service d'un serveur NAS avec Openmediavault avec accès SSH, FTP, NFS, Backup.
 
 ### **Projets Cybersécurité**
