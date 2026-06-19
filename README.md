@@ -12,7 +12,7 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 - **Localisation** : France 🇫🇷
 - **Domaine principal** : DevOps, Administration Système (Linux), Automatisation
 - **Nouvelle passion** : Cybersécurité, Pentesting, Sécurité des infrastructures
-- **Expérience Linux** : Depuis 1999 (25 ans !) et Certifications LPI
+- **Expérience Linux** : Depuis 2001 (25 ans !) et Certifications LPI
 - **Passions** : Scripting Bash/Python, Conteneurs (Docker, Kubernetes), Cloud (Azure), Sécurité offensive/défensive
 
 > *"Linux est comme une boîte à outils : plus tu maîtrises les outils, plus tu peux construire ou réparer n'importe quoi."*
