@@ -98,7 +98,6 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 
 ## 📩 Contact
 
-- **GitHub** : [@fredericb69](https://github.com/FredericB69)
 - **LinkedIn** : [Frederic B.](https://www.linkedin.com/in/frédéric-b-22486b13a/)
 - **Email** : fb.attfr [at] gmail [dot] com
 
