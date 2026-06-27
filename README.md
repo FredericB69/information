@@ -10,8 +10,8 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 
 - **Nom** : Frederic B.
 - **Localisation** : France 🇫🇷
-- **Domaine principal** : DevOps, Administration Système (Linux), Automatisation
-- **Nouvelle passion** : Cybersécurité, Pentesting, Sécurité des infrastructures
+- **Domaine principal** : Administration Système (Linux), Automatisation.
+- **Nouvelle passion** : DevOps, Cybersécurité, Pentesting, Sécurité des infrastructures.
 - **Expérience Linux** : Depuis 2001 (25 ans !) et Certifications LPI
 - **Passions** : Scripting Bash/Python, Conteneurs (Docker, Kubernetes), Cloud (Azure), Sécurité offensive/défensive
 
