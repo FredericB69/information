@@ -76,10 +76,10 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 ### **Linux**
 
 - **Documentation** :
-  - [Arch Wiki](https://wiki.archlinux.org/)
+  - [Linux Ubuntu wiki](https://doc.ubuntu-fr.org/)
   - [Linux Documentation Project](https://tldp.org/)
 - **Communautés** :
-  - [r/linux](https://www.reddit.com/r/linux/)
+  - [Debian/linux](https://forums.debian.net/)
   - [Linux Foundation](https://www.linuxfoundation.org/)
 
 ### **Cybersécurité**
@@ -109,6 +109,7 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 ## 🎯 Objectifs 2026
 
 - Obtenir une certification en cybersécurité (Réaliser un Pentesting)
+- Obtenir la certification LPI 102-500 ( LPIC 1 )
 - Contribuer à un projet open source lié à la sécurité
-- Automatiser davantage mes déploiements avec Kubernetes et Terraform
-- Participer à au moins 5 CTF cette année
+- Automatiser davantage mes déploiements avec Kubernetes
+- Participer à au moins des CTF cette année
