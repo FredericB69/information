@@ -36,7 +36,7 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 - **Systèmes** : Kali, Parrot OS, Exegol, Whonix, Qubes OS, Tail 
 - **Outils** : Nmap, Metasploit, Burp Suite, Wireshark, Snort, OpenVAS, fail2ban, Portsentry, AIDE, clamav, iptables, Lynis, Recon-ng
 - **Sécurité des infrastructures** : Hardening Linux, Gestion des accès (IAM), Chiffrement (GPG, SSL/TLS)
-- **Bonnes pratiques** : RGPD, ISO 27001, NIST 2
+- **Bonnes pratiques** : RGPD, ISO 27001, NIST
 
 ### **Développement**
 
