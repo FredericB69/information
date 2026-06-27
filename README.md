@@ -42,7 +42,7 @@ Bonjour ! Je suis **Frederic B.**, un professionnel avec **25 ans d'expérience 
 
 - **Langages** : Bash, (Python connaissance).
 - **Outils** : Git, GitHub/GitLab, Vim, VS Code
-- **Bases de données** : MySQL, PostgreSQL, MongoDB
+- **Bases de données** : MySQL
 
 ---
 
